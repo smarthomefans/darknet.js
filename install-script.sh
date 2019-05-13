@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# if [ ! -d darknet ]; then
-# 		git clone https://github.com/pjreddie/darknet;
+if [ ! -d darknet ]; then
+		# git clone https://github.com/pjreddie/darknet;
 
-# 		if [ $? -ne 0 ]; then
-# 				echo "Could not clone darknet repo";
-# 				exit 1;
-# 		fi
-# fi
+		if [ $? -ne 0 ]; then
+				echo "Could not clone darknet repo";
+				exit 1;
+		fi
+fi
 
 # download with 61c9d02ec461e30d55762ec7669d6a1d3c356fb2
 
