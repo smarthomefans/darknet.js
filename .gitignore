@@ -1,6 +1,5 @@
 node_modules/
 libdarknet*
-darknet/
 
 examples/dog.jpg
 examples/eagle.jpg
