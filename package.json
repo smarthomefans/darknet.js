@@ -1,11 +1,11 @@
 {
-  "name": "darknet",
+  "name": "@smarthomefans/darknet",
   "version": "1.3.9",
   "description": "",
   "main": "darknet.js",
   "typings": "darknet.d.ts",
-  "repository": "https://github.com/bennetthardwick/darknet.js",
-  "homepage": "https://github.com/bennetthardwick/darknet.js",
+  "repository": "https://github.com/smarthomefans/darknet.js",
+  "homepage": "https://github.com/smarthomefans/darknet.js",
   "scripts": {
     "test": "./examples/example && jasmine",
     "install": "./install-script.sh",
@@ -20,7 +20,7 @@
     "object detection",
     "machine learning"
   ],
-  "author": "Bennett Hardwick <bennetthardwick@icloud.com> (bennetthardwick.com)",
+  "author": "Bennett Hardwick <bennetthardwick@icloud.com> (bennetthardwick.com), smarthomefans",
   "license": "MIT",
   "dependencies": {
     "ffi": "^2.3.0",
