@@ -1,3 +1,4 @@
+#include <sys/select.h>
 #include "darknet.h"
 
 #include <assert.h>
